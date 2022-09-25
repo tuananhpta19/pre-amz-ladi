@@ -1,0 +1,85 @@
+
+.banner .carousel-item img {
+  height: 400px;
+  object-fit: contain;
+}
+
+.call {
+  width: 100%;
+  text-align: center;
+}
+
+.call h2 {
+  margin-top: 16px;
+  padding: 32px 0;
+  font-size: 35px;
+  color: #000000;
+}
+
+.pre-amz {
+  width: 100%;
+  text-align: center;
+}
+
+.pre-amz h2 {
+  margin-top: 16px;
+  padding: 32px 0;
+  font-size: 35px;
+  color: #000000;
+}
+
+.do--you {
+  width: 100%;
+  text-align: center;
+}
+
+.do--you h2:first-child {
+  font-size: 35px;
+  color: #000000;
+  margin-top: 16px;
+  padding-top: 32px;
+}
+
+.do--you h2:last-child {
+  padding-bottom: 32px;
+  font-size: 35px;
+  color: #000000;
+}
+
+.contact {
+  width: 100%;
+  text-align: center;
+}
+.contact h2{
+  margin-top: 16px;
+  padding: 32px 0;
+  font-size: 35px;
+  color: #000000;
+}
+
+.contact .row {
+  justify-content: center;
+  align-items: center;
+}
+
+.contact .col-4 {
+  padding: 0;
+}
+.contact img {
+  width: 100%;
+  height: 221px;
+}
+
+.contact .active {
+  height: 250px;
+  width: 100%;
+}
+
+.contact p {
+  width: 60%;
+  margin: 16px auto 0;
+}
+
+.contact p:first-child {
+  margin-top: 50px
+}

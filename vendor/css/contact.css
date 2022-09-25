@@ -1,0 +1,28 @@
+.banner .carousel-item img {
+  height: 400px;
+  object-fit: contain;
+}
+
+.contact {
+  width: 100%;
+  text-align: center;
+}
+
+.contact h2 {
+  margin-top: 16px;
+  padding: 32px 0;
+  font-size: 35px;
+  color: #ffa318;
+}
+
+.warehousing {
+  width: 100%;
+  text-align: center;
+}
+
+.warehousing h2 {
+  margin-top: 16px;
+  padding: 32px 0;
+  font-size: 35px;
+  color: #ffa318;
+}

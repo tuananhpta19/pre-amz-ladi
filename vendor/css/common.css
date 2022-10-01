@@ -3,12 +3,17 @@
   width: 100%;
   position: sticky;
 }
+/* .header .logo {
+  width: 116px;
+  height: 70px;
+} */
 .header .navbar.navbar-expand-lg {
   width: 100%;
 }
 .header img {
-  width: 165px;
+  width: 116px;
   height: 100px;
+  object-fit: cover;
 }
 .header li {
   font-size: 13px;
@@ -38,8 +43,9 @@
 }
 
 .footer img {
-  width: 165px;
+  width: 116px;
   height: 100px;
+  object-fit: cover;
 }
 
 .footer .address p {

@@ -1,5 +1,7 @@
-.banner .carousel-item img {
-  height: 400px;
+#banner .carousel-item img {
+  height: 330px;
+  width: 80% !important;
+  margin: 0 auto;
   object-fit: contain;
 }
 

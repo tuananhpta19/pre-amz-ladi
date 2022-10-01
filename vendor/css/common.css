@@ -4,15 +4,15 @@
   position: sticky;
 }
 /* .header .logo {
-  width: 116px;
+  width: 116px !important;
   height: 70px;
 } */
 .header .navbar.navbar-expand-lg {
   width: 100%;
 }
 .header img {
-  width: 116px;
-  height: 100px;
+  width: 116px !important;
+  height: 100px !important;
   object-fit: cover;
 }
 .header li {
@@ -43,8 +43,8 @@
 }
 
 .footer img {
-  width: 116px;
-  height: 100px;
+  width: 116px !important;
+  height: 100px !important;
   object-fit: cover;
 }
 
